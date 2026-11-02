@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-<img width="1027" height="562" alt="image" src="https://github.com/user-attachments/assets/0c7bea75-2b0d-4920-8d59-8d16df255211" />
+![HR Dashboard](hrattrition.png)
 
 ## Project Overview
 
